@@ -19,5 +19,5 @@ def make_commit(days:int):
     
 
 
-make_commit(90)
+make_commit(5)
     
